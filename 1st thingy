@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:grey;">
+ 
+<h1>Hello</h1>
+  <h2> yes </h2>
+<p>Hello this is a work in progress. I am making a titanium webstie. Anyways here is a link to where me and someone else are working on</p>
+<button onclick="window.location.href = 'https://deltamath.gq/';">Hello</button>
+  
+
+</body>
+</html>
